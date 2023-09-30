@@ -6,10 +6,9 @@
 //
 
 import UIKit
+import PhotosUI
+import ParseSwift
 
-// TODO: Import Photos UI
-
-// TODO: Import Parse Swift
 
 class PostViewController: UIViewController {
 
